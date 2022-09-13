@@ -1,4 +1,5 @@
-from bokeh.plotting import figure, show
+from bokeh.plotting import figure, show 
+# install bokeh using conda
 from bokeh.models import LogColorMapper
 from bokeh.palettes import Viridis6 as palette
 from bokeh.sampledata.us_counties import data as counties
